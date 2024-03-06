@@ -11,11 +11,11 @@ Simple Web3 Project is a JavaScript library that provides a simple interface for
 You can install Simple Web3 Project via npm:
 
 ```bash
-npm install cryptopunkstar
+npm install linez78
 ```
 ## Usage
 
-const SimpleWeb3Project = require('cryptopunkstar-eth');
+const SimpleWeb3Project = require('lineztea-eth');
 
 // Create an instance with your preferred Ethereum node endpoint
 const web3Project = new SimpleWeb3Project('https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID');
